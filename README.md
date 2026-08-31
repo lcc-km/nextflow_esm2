@@ -1,8 +1,4 @@
-# language
-
-## language c
-- [English](README.en.md)
-- [日本語](README.ja.md)
+Language: [English](README.en.md) | [日本語](README.ja.md)
 
 # ESM-2 Fine-Tuning & DMS Screening Pipeline
 
