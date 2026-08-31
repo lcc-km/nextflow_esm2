@@ -1,9 +1,3 @@
-# language
-
-## language c
-- [English](README.en.md)
-- [日本語](README.ja.md)
-
 # ESM-2 Fine-Tuning & DMS Screening Pipeline
 
 A scalable, reproducible Nextflow pipeline for fine-tuning the **ESM-2** protein language model on Deep Mutational Scanning (DMS) data to predict protein functional activity. Designed for high-throughput screening of large mutation libraries across multiple datasets in parallel.
